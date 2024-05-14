@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "yeniMesaj",
+						"type": "string"
+					}
+				],
+				"name": "mesajiDegis",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "mesajiGoruntule",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Berkelfreud",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Mesaj.sol": "Deoplama"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Mesaj.sol": {
+			"keccak256": "0xf3519931e0c6fb7c5202904f4f6f5c434a77684d3318d1a4b71b84c2ff7eb750",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://65a3a6270dd0c0c69e65c36b61bab35b7f2a96ffd8f488a97f76f8ce532b8957",
+				"dweb:/ipfs/QmW9fp5F6dYaTqxMmivyRsDdFrnKmSsMhbNkmMb7CKrrhy"
+			]
+		}
+	},
+	"version": 1
+}
