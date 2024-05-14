@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Berkelfreud",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/3_Ballot.sol": "Ballot"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/3_Ballot.sol": {
+			"keccak256": "0xb37712a9af1490d83594558c884ece8c99bc16cbd43223b8c048272e05cd34ea",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://43f2954acfad8d826757d410a72e825307e4f774c7991514910f7291bbb0d908",
+				"dweb:/ipfs/Qma5WtgMHK3NpB7NSjxyA5pQeLTa3XBf4RYmAEBBD6tVUk"
+			]
+		}
+	},
+	"version": 1
+}
